@@ -1,11 +1,11 @@
 .trending {
-    position: relative;
-  
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-  }
-  
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
 .trending__discover {
   position: absolute;
   top: 44%;
@@ -34,7 +34,7 @@
 }
 
 .trending-sushi,
-.trending-drinks {
+.trending-drink {
   width: 100%;
   min-height: 640px;
 
